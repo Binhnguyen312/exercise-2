@@ -1,0 +1,44 @@
+{
+  "s1": {
+    "id": 1001,
+    "name": "than thi det",
+    "email": "det@gmail.com",
+    "dept": "r&d",
+    "salary": 5000
+  },
+  "s2": {
+    "id": 1002,
+    "name": "tran van coi",
+    "email": "coi@gmail.com",
+    "dept": "acc",
+    "salary": 4000
+  },
+  "s3": {
+    "id": 1003,
+    "name": "Hoang thi men",
+    "email": "men@gmail.com",
+    "dept": "r&d",
+    "salary": 3000
+  },
+  "s4": {
+    "id": 1004,
+    "name": "Nguyen van nam",
+    "email": "nam@gmail.com",
+    "dept": "acc",
+    "salary": 4500
+  },
+  "s5": {
+    "id": 1005,
+    "name": "Nguyen thi anh",
+    "email": "anh@yahoo.com",
+    "dept": "hr",
+    "salary": 3500
+  },
+  "s6": {
+    "id": 1006,
+    "name": "pham thanh ha",
+    "email": "ha@gmail.com",
+    "dept": "r&d",
+    "salary": 5200
+  }
+}
