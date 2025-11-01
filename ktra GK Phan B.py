@@ -24,7 +24,7 @@ def add_employee():
     salary = int(input('Enter the employee salary: '))
     if emp_id in department[dept_name]:
         print(f'Employee {emp_id} already exists')
-     department[dept_name][emp_id] = {'name':emp_name, 'salary':salary}
+    department[dept_name][emp_id] = {'name':emp_name, 'salary':salary}
     print(f'add employee {emp_id}: {emp_name} sucessfully in {dept_name} department')
 add_employee()
 # tim kiem nhan vien voi ID
